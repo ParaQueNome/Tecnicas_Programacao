@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\ Escreva\ um\ programa\ que\ imprima\ na\ tela\ a\ soma\ dos\ n\u00FAmeros\ \u00EDmpares\ entre\ 0\ e\ 30\ e\r\na\ multiplica\u00E7\u00E3o\ dos\ n\u00FAmeros\ pares\ entre\ 0\ e\ 30.
+comment1.params=
+comment1.target=void\ somaImpar()
+comment2.params=
+comment2.target=void\ multiplicaPar()
+numComments=3

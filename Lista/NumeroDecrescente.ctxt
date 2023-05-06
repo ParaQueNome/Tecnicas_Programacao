@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NumeroDecrescente
+comment0.text=Crie\ uma\ classe\ java\ NumeroDecrescente\ que\ contenha\ um\ m\u00E9todo\ que\ receba\ um\r\nn\u00FAmero\ inteiro\ e\ imprima,\ em\ ordem\ decrescente,\ o\ valor\ do\ n\u00FAmero\ at\u00E9\ 0.
+comment1.params=num1
+comment1.target=void\ ordemDecrescente(int)
+numComments=2
