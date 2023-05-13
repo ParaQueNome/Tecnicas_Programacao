@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MaiorNumero
+comment0.text=Crie\ uma\ classe\ java\ MaiorNumero\ que\ contenha\ um\ m\u00E9todo\ que\ receba\ dois\ n\u00FAmeros\r\ninteiros\ e\ imprima\ o\ maior\ entre\ eles.\ \r\n
+comment1.params=num1\ num2
+comment1.target=int\ verificaNum(int,\ int)
+numComments=2

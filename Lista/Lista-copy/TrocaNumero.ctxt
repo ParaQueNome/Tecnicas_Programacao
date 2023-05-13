@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TrocaNumero
+comment0.text=\ Crie\ uma\ classe\ java\ TrocaNumero\ que\ contenha\ um\ m\u00E9todo\ que\ receba\ dois\ n\u00FAmeros\r\nNumA\ e\ NumB,\ nessa\ ordem,\ e\ imprima\ em\ ordem\ inversa,\ isto\ \u00E9,\ se\ os\ dados\ lidos\r\nforem\ NumA\ \=\ 5\ e\ NumB\ \=\ 9,\ por\ exemplo,\ devem\ ser\ impressos\ na\ ordem\ NumA\ \=\ 9\ e\r\nNumB\ \=\ 5.
+comment1.params=num1\ num2
+comment1.target=void\ inverteNum(int,\ int)
+numComments=2

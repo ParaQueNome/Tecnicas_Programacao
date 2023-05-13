@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fatura
+comment1.params=numero\ descricao\ quantidade\ preco
+comment1.target=Fatura(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ getTotalFatura()
+numComments=3

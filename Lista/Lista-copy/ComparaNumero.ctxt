@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparaNumero
+comment0.text=\ Crie\ uma\ classe\ java\ ComparaNumero\ que\ contenha\ um\ m\u00E9todo\ que\ receba\ dois\r\nn\u00FAmeros\ e\ indique\ se\ s\u00E3o\ iguais\ ou\ se\ s\u00E3o\ diferentes.\ Mostre\ o\ maior\ e\ o\ menor\ (nesta\r\nsequ\u00EAncia).
+comment1.params=num1\ num2
+comment1.target=void\ comparaNumero(int,\ int)
+numComments=2

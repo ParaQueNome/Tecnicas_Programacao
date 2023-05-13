@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=tamanho
+comment1.target=Agenda(int)
+comment2.params=contato
+comment2.target=boolean\ adicionarContato(Contato)
+comment3.params=nome
+comment3.target=Contato\ buscarContato(java.lang.String)
+comment4.params=nome
+comment4.target=boolean\ excluirContato(java.lang.String)
+numComments=5
